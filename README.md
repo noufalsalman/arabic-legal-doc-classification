@@ -57,7 +57,9 @@ Python, scikit-learn, TensorFlow/Keras, pyarabic, NLTK (ISRIStemmer), Gradio
 
 ## Project Structure
 
+```
 notebook/arabic_legal_doc_classification.ipynb
 report/arabic-legal-doc-classification.pdf
 presentation/arabic-legal-doc-classification-slides.pdf
 README.md
+```
