@@ -67,3 +67,15 @@ arabic-legal-doc-classification/
 │   └── arabic-legal-doc-classification-slides.pdf
 └── README.md
 ```
+
+## Dataset
+
+[ALARB (Arabic Legal Argument Reasoning Benchmark)](https://huggingface.co/datasets/THIQAH-RD/ALARB), 13,341 Saudi commercial court cases, introduced by Abu Shairah et al. (2025).
+
+## Team
+
+Built as a group project with Layal Alsultan and Areen Al Ruwaitea for CS476 (NLP), Prince Sultan University.
+
+## References
+
+Full citation list available in the project report.
